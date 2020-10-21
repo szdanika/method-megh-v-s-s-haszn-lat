@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace methodcallprat
-{//ha ide rakod a calc-ot akkor más program ból is meghívható
+{
     class Program
     {
         static void Main(string[] args)
         {
              int a = 10, b = 20;
-
+              //hellothere
             //Console.WriteLine(a+b);
             calc(ref a, b); //method meghívása
 
