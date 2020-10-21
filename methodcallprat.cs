@@ -11,7 +11,7 @@ namespace methodcallprat
         static void Main(string[] args)
         {
              int a = 10, b = 20;
-              //hellothere
+              //hellothere asd 2.0
             //Console.WriteLine(a+b);
             calc(ref a, b); //method meghívása
 
